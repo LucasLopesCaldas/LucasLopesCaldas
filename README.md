@@ -9,9 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lucas-lopes-caldas" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-lopes-caldas" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lucas-lopes-caldas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-lopes-caldas" height="30" width="40" /></a>
 <span>
-<a href="https://github.com/lucaslopescaldas" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="LucasLopesCaldas" height="30" width="40" /></a>
+<a href="https://github.com/lucaslopescaldas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="LucasLopesCaldas" height="30" width="40" /></a>
 </span>
 
 <h3 align="left">Languages and Tools:</h3>
