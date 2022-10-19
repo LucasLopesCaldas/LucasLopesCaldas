@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Lopes</h1>
-<h3 align="center">I am a Brazilian full stack web developer</h3>
+<h3 align="center">I am a brazilian full stack web developer</h3>
 
 - 🌱 I’m currently learning **Koltin, Jetpack Compose**
 
